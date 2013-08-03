@@ -1,0 +1,464 @@
+Sun Jun 26 17:22:11 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncproperties.cpp : saving current settings to registry
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncproperties.cpp : enddialog (OK)
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncproperties.cpp : dialog result = 1
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncPasswd.h : PASSWD : ToText called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncproperties.cpp : loading local-only settings
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : authhosts cleared
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncproperties.cpp : clearing user settings
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncPasswd.h : PASSWD : FromClear called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncproperties.cpp : loading DEFAULT local settings
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncproperties.cpp : loading "rudi" global settings
+ --De bewerking is voltooid.
+Sun Jun 26 17:22:27 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncsockconnect.cpp : accepted connection from 127.0.0.1
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : vncClient() executing...
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : TEST 4
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : AddClient() done
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : client connected : 127.0.0.1 (1)
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : DSMPlugin Pointer to socket OK
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : m_ms_logon set to false --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : negotiated version
+ --De bewerking is voltooid.
+Entered InitAuthenticate --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncPasswd.h : PASSWD : ToText called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : loopback connection attempted - client accepted
+ --De bewerking is voltooid.
+password authentication --De bewerking is voltooid.
+Sun Jun 26 17:22:30 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : initialising desktop handler
+ --De ingang is ongeldig.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncDesktopSW.cpp : SWinit 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Hook changed 1
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Hook changed 2
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : KillScreenSaver...
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : InitVideo driver Called no Temp_Resolution
+ --Het systeem kan het opgegeven bestand niet vinden.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Driver option enabled 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Driver option is enabled
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\videodriver.cpp : vncVideodriver() 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\videodriver.cpp : Activate_video_driver() 
+ --De bewerking is voltooid.
+Sun Jun 26 17:22:31 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Start Mirror driver
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\videodriver.cpp : StartMirroring() 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Driver Used
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Shared memory mapped
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Driver option dsiabled 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Break log
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : bitmap dimensions are 1280 x 1024
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : created memory bitmap
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : got bitmap format
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : attempting to enable DIBsection blits
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : enabled fast DIBsection blits OK
+ --Onvoldoende opslagruimte beschikbaar om deze opdracht te verwerken.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : no palette data for truecolour display
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\videodriver.cpp :  Driver Communication service found 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Removing real Dib buffer and replace by driver communication buffer
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncbuffer.cpp : request local buffer[5242880]
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncbuffer.cpp : fast blits detected - using DIBsection buffer
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncbuffer.cpp : local buffer=5242880
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncDesktopSW.cpp : GetQuarterSize 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncDesktopSW.cpp : GetQuarterSize 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : SethookMechanism called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncEncodeMgr.h : raw encoder requested
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Sethook_restart_wanted hook=0 driver=1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : settranslatefunction called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : only 8, 16 or 32 bits supported remotely - 0 requested
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : settranslatefunction called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : no translation required
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncEncodeMgr.h : request client buffer[5242892]
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : Authenticated() done
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : authenticated connection
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncbuffer.cpp : request local buffer[5242880]
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncbuffer.cpp : fast blits detected - using DIBsection buffer
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncbuffer.cpp : local buffer=5242880
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : sent pixel format to client
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : init update thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : starting update thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects -2147482934 -714
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Hook changed 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 255 -257
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 476 -476
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 0 0
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 0 0
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 0 0
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 0 0
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 0 0
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 13 -13
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : disable update thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : enable/disable synced
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncEncodeMgr.h : SetClientFormat called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : settranslatefunction called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : triple LUT used
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncEncodeMgr.h : request client buffer[1310732]
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : enable update thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : enable/disable synced
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : disable update thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : enable/disable synced
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : ZRLE found 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncEncodeMgr.h : ZRLE encoder requested
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : settranslatefunction called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : only 8, 16 or 32 bits supported remotely - 0 requested
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : settranslatefunction called
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : triple LUT used
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncEncodeMgr.h : request client buffer[1966108]
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : Tight found
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : compression level requested: 6
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : X-style cursor shape updates enabled
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : Full-color cursor shape updates enabled
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : image quality level requested: 6
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : XOR protocol extension enabled
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : LastRect protocol extension enabled
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : enable update thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : enable/disable synced
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 203 -203
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncencoder.cpp : remote palette data requested
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 633 1366
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 317 -317
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 43 -43
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 38 -38
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 1 
+ --De bewerking is voltooid.
+Sun Jun 26 17:22:32 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 66 -66
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 10 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 63 -63
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 9 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 51 -51
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 12 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 70 -70
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 13 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 62 -62
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 14 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 41 -41
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 2 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 25 -25
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 4 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 31 -31
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 4 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 20 -20
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 4 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 35 -35
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 9 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 26 -26
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 9 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 24 -24
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 9 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 30 -30
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 18 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 47 -47
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 46 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 11 -11
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 49 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 53 -53
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 9 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 25 -25
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 6 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 26 -26
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 9 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 26 -26
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 6 
+ --De bewerking is voltooid.
+Sun Jun 26 17:22:33 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 24 -24
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 8 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 9 -9
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 14 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 34 -34
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 16 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 44 -44
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 9 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 30 -30
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 11 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 29 -29
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 11 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 33 -33
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 13 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 32 -32
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 12 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 44 -44
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 6 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 21 -21
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 5 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 13 -13
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 13 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 12 -12
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 5 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 9 -9
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 2 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 7 -7
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 2 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 7 -7
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 3 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : updates, rects 8 -8
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : Nr rects 2 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : zero bytes read2
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncservice.cpp : SelectHDESK to Default (28) from 28
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncservice.cpp : SelectHDESK failed to close old desktop 28 (Err=170)
+ --De opgegeven bron is bezet.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : client disconnected : 127.0.0.1 (1)
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : disable update thread
+ --Overlappende I/O-bewerking wordt uitgevoerd.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : enable/disable synced
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : kill update thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : stopping update thread
+ --De bewerking is voltooid.
+client sent 35 updates
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : update thread gone
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : removing authorised client
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : deleting desktop server
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : killing screen server
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktopthread.cpp : quitting desktop server thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Monitor2 -1
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncdesktop.cpp : Monitor3 61808 -1
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\videodriver.cpp : ~vncVideodriver() 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\videodriver.cpp : StopMirroring() 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\videodriver.cpp : DesActivate_video_driver() 
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncservice.cpp : SelectHDESK to Default (28) from 28
+ --De opgegeven bron is bezet.
+Sun Jun 26 17:22:34 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : desktop deleted
+ --Ongeldige vensteringang.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : RemoveClient() done
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : ~vncClient() executing...
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncclient.cpp : deleting socket
+ --Ongeldige vensteringang.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : closing socket
+ --De bewerking is voltooid.
+Sun Jun 26 17:22:37 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : KillAuthClients() done
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncmenu.cpp : quitting from WM_DESTROY
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\winvnc.cpp : shutting down server
+ --De bewerking is voltooid.
+Sun Jun 26 17:22:38 2005
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : shutting down server object
+ --Poging tot loslaten van mutex die geen eigendom is van de aanvrager.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : shutdown socket
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : closing socket
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : closing socket
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncsockconnect.cpp : quitting socket connection thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : closing socket
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : shutdown socket
+ --Een aanvraag om gegevens te verzenden of te ontvangen is niet toegestaan omdat de socket niet is verbonden en omdat (tijdens het verzenden op een datagramsocket via een sendto-aanroep) geen adres is opgegeven.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : closing socket
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vnchttpconnect.cpp : quitting HTTP server thread
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : closing socket
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vsocket.cpp : closing socket
+ --De bewerking is voltooid.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : KillAuthClients() done
+ --Een aanvraag om gegevens te verzenden of te ontvangen is niet toegestaan omdat de socket niet is verbonden en omdat (tijdens het verzenden op een datagramsocket via een sendto-aanroep) geen adres is opgegeven.
+C:\c++\RC205\ultravnc\winvnc\winvnc\vncserver.cpp : KillUnauthClients() done
+ --De bewerking is voltooid.
