@@ -1,1 +1,0 @@
-for /f %%f in (c:\list.txt) do c:\script.bat %%f
